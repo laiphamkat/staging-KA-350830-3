@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_product_chekhol_explorer_wanted --> navigate to Page_product_chekhol-explorer-wanted",
+        "step 3: Add visual checkpoint at Page_product_chekhol-explorer-wanted"
+    ]
+}

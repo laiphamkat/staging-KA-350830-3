@@ -1,28 +1,53 @@
 Flow ID,Test Steps,Flow Priority
-1,"step 1: Navigate to Page_about
-step 2: At Page_about click on hyperlink_about
-step 3: At Page_about click on hyperlink_about
-step 4: Add visual checkpoint at Page_about",High
-2,"step 1: Navigate to Page_product_chekhol-fuck
-step 2: At Page_product_chekhol-fuck click on button_object
-step 3: At Page_product_chekhol-fuck click on button_object
-step 4: At Page_product_chekhol-fuck click on button_object
-step 5: At Page_product_chekhol-fuck click on button_object
-step 6: At Page_product_chekhol-fuck click on button_object
-step 7: At Page_product_chekhol-fuck click on label_object
-step 8: At Page_product_chekhol-fuck click on button_object
-step 9: At Page_product_chekhol-fuck click on hyperlink_cart --> navigate to Page_cart
-step 10: At Page_cart click on button_object --> navigate to Page_checkout_info
-step 11: Add visual checkpoint at Page_checkout_info",Low
-4,"step 1: Navigate to Page_product_chekhol-santa-matreshka
+4,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_
+step 3: At Page_home click on hyperlink_cart --> navigate to Page_cart
+step 4: At Page_cart click on hyperlink_ --> navigate to Page_home
+step 5: At Page_home click on hyperlink_category_chekhly_na_iphone --> navigate to Page_category_chekhly-na-iphone
+step 6: At Page_category_chekhly-na-iphone click on button_object
+step 7: At Page_category_chekhly-na-iphone click on label_object
+step 8: At Page_category_chekhly-na-iphone click on button_object
+step 9: At Page_category_chekhly-na-iphone click on button_object
+step 10: At Page_category_chekhly-na-iphone click on button_object
+step 11: At Page_category_chekhly-na-iphone click on hyperlink_product_chekhol_tetrad --> navigate to Page_product_chekhol-tetrad
+step 12: At Page_product_chekhol-tetrad click on label_object
+step 13: At Page_product_chekhol-tetrad click on button_object
+step 14: At Page_product_chekhol-tetrad click on button_object
+step 15: Add visual checkpoint at Page_product_chekhol-tetrad",High
+3,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_cart --> navigate to Page_cart
+step 3: At Page_cart click on button_object --> navigate to Page_checkout_info
+step 4: At Page_checkout_info click on button_object
+step 5: Add visual checkpoint at Page_checkout_info",Medium
+2,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_about --> navigate to Page_about
+step 3: Add visual checkpoint at Page_about",Low
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_product_chekhol_explorer_wanted --> navigate to Page_product_chekhol-explorer-wanted
+step 3: Add visual checkpoint at Page_product_chekhol-explorer-wanted",Low
+7,"step 1: Navigate to Page_product_chekhol-fuck
+step 2: Add visual checkpoint at Page_product_chekhol-fuck",Trivial
+8,"step 1: Navigate to Page_product_chekhol-santa-matreshka
 step 2: Add visual checkpoint at Page_product_chekhol-santa-matreshka",Trivial
-5,"step 1: Navigate to Page_thank-you_f824a39e-70f1-4a1c-b83e-6e9e5cca4794
-step 2: Add visual checkpoint at Page_thank-you_f824a39e-70f1-4a1c-b83e-6e9e5cca4794",Trivial
-3,"step 1: Navigate to Page_checkout_shipping-address
+5,"step 1: Navigate to Page_checkout_shipping-address
 step 2: Add visual checkpoint at Page_checkout_shipping-address",Trivial
-7,"step 1: Navigate to Page_category_dlya-muzhchin
-step 2: Add visual checkpoint at Page_category_dlya-muzhchin",Trivial
-6,"step 1: Navigate to Page_category_dlya-devushek
-step 2: Add visual checkpoint at Page_category_dlya-devushek",Trivial
-8,"step 1: Navigate to Page_checkout_payment
+9,"step 1: Navigate to Page_shipping
+step 2: Add visual checkpoint at Page_shipping",Trivial
+11,"step 1: Navigate to Page_product_chekhol-the-amity-affliction
+step 2: Add visual checkpoint at Page_product_chekhol-the-amity-affliction",Trivial
+6,"step 1: Navigate to Page_checkout_info
+step 2: Add visual checkpoint at Page_checkout_info",Trivial
+12,"step 1: Navigate to Page_product_samsung-backpack-dlya-galaxy-s7-edge-chernyi
+step 2: Add visual checkpoint at Page_product_samsung-backpack-dlya-galaxy-s7-edge-chernyi",Trivial
+16,"step 1: Navigate to Page_product_chekhol-rozovyi
+step 2: Add visual checkpoint at Page_product_chekhol-rozovyi",Trivial
+15,"step 1: Navigate to Page_product_chekhol-lovely-girl
+step 2: Add visual checkpoint at Page_product_chekhol-lovely-girl",Trivial
+14,"step 1: Navigate to Page_product_samsung-clear-cover
+step 2: Add visual checkpoint at Page_product_samsung-clear-cover",Trivial
+10,"step 1: Navigate to Page_checkout_payment
 step 2: Add visual checkpoint at Page_checkout_payment",Trivial
+13,"step 1: Navigate to Page_checkout
+step 2: Add visual checkpoint at Page_checkout",Trivial
+17,"step 1: Navigate to Page_product
+step 2: Add visual checkpoint at Page_product",Trivial

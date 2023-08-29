@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_",
+        "step 3: At Page_home click on hyperlink_cart --> navigate to Page_cart",
+        "step 4: At Page_cart click on hyperlink_ --> navigate to Page_home",
+        "step 5: At Page_home click on hyperlink_category_chekhly_na_iphone --> navigate to Page_category_chekhly-na-iphone",
+        "step 6: At Page_category_chekhly-na-iphone click on button_object",
+        "step 7: At Page_category_chekhly-na-iphone click on label_object",
+        "step 8: At Page_category_chekhly-na-iphone click on button_object",
+        "step 9: At Page_category_chekhly-na-iphone click on button_object",
+        "step 10: At Page_category_chekhly-na-iphone click on button_object",
+        "step 11: At Page_category_chekhly-na-iphone click on hyperlink_product_chekhol_tetrad --> navigate to Page_product_chekhol-tetrad",
+        "step 12: At Page_product_chekhol-tetrad click on label_object",
+        "step 13: At Page_product_chekhol-tetrad click on button_object",
+        "step 14: At Page_product_chekhol-tetrad click on button_object",
+        "step 15: Add visual checkpoint at Page_product_chekhol-tetrad"
+    ]
+}

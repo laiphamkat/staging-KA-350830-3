@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_thank-you_f824a39e-70f1-4a1c-b83e-6e9e5cca4794'
+'step 1: Navigate to Page_product'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/thank-you/f824a39e-70f1-4a1c-b83e-6e9e5cca4794')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/product')
 
-'step 2: Add visual checkpoint at Page_thank-you_f824a39e-70f1-4a1c-b83e-6e9e5cca4794'
+'step 2: Add visual checkpoint at Page_product'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00004_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00016_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
