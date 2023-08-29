@@ -1,0 +1,28 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_about
+step 2: At Page_about click on hyperlink_about
+step 3: At Page_about click on hyperlink_about
+step 4: Add visual checkpoint at Page_about",High
+2,"step 1: Navigate to Page_product_chekhol-fuck
+step 2: At Page_product_chekhol-fuck click on button_object
+step 3: At Page_product_chekhol-fuck click on button_object
+step 4: At Page_product_chekhol-fuck click on button_object
+step 5: At Page_product_chekhol-fuck click on button_object
+step 6: At Page_product_chekhol-fuck click on button_object
+step 7: At Page_product_chekhol-fuck click on label_object
+step 8: At Page_product_chekhol-fuck click on button_object
+step 9: At Page_product_chekhol-fuck click on hyperlink_cart --> navigate to Page_cart
+step 10: At Page_cart click on button_object --> navigate to Page_checkout_info
+step 11: Add visual checkpoint at Page_checkout_info",Low
+4,"step 1: Navigate to Page_product_chekhol-santa-matreshka
+step 2: Add visual checkpoint at Page_product_chekhol-santa-matreshka",Trivial
+5,"step 1: Navigate to Page_thank-you_f824a39e-70f1-4a1c-b83e-6e9e5cca4794
+step 2: Add visual checkpoint at Page_thank-you_f824a39e-70f1-4a1c-b83e-6e9e5cca4794",Trivial
+3,"step 1: Navigate to Page_checkout_shipping-address
+step 2: Add visual checkpoint at Page_checkout_shipping-address",Trivial
+7,"step 1: Navigate to Page_category_dlya-muzhchin
+step 2: Add visual checkpoint at Page_category_dlya-muzhchin",Trivial
+6,"step 1: Navigate to Page_category_dlya-devushek
+step 2: Add visual checkpoint at Page_category_dlya-devushek",Trivial
+8,"step 1: Navigate to Page_checkout_payment
+step 2: Add visual checkpoint at Page_checkout_payment",Trivial

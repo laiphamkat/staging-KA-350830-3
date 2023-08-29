@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_about",
+        "step 2: At Page_about click on hyperlink_about",
+        "step 3: At Page_about click on hyperlink_about",
+        "step 4: Add visual checkpoint at Page_about"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_product_chekhol-fuck",
+        "step 2: At Page_product_chekhol-fuck click on button_object",
+        "step 3: At Page_product_chekhol-fuck click on button_object",
+        "step 4: At Page_product_chekhol-fuck click on button_object",
+        "step 5: At Page_product_chekhol-fuck click on button_object",
+        "step 6: At Page_product_chekhol-fuck click on button_object",
+        "step 7: At Page_product_chekhol-fuck click on label_object",
+        "step 8: At Page_product_chekhol-fuck click on button_object",
+        "step 9: At Page_product_chekhol-fuck click on hyperlink_cart --> navigate to Page_cart",
+        "step 10: At Page_cart click on button_object --> navigate to Page_checkout_info",
+        "step 11: Add visual checkpoint at Page_checkout_info"
+    ]
+}
