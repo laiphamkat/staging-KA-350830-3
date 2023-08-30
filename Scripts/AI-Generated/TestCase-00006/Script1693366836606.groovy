@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_product_chekhol-the-amity-affliction'
+'step 1: Navigate to Page_cart'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-the-amity-affliction')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/cart')
 
-'step 2: Add visual checkpoint at Page_product_chekhol-the-amity-affliction'
+'step 2: Add visual checkpoint at Page_cart'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00010_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00006_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_product_samsung-backpack-dlya-galaxy-s7-edge-chernyi'
+'step 1: Navigate to Page_product_chekhol-santa-matreshka'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/samsung-backpack-dlya-galaxy-s7-edge-chernyi')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/chekhol-santa-matreshka')
 
-'step 2: Add visual checkpoint at Page_product_samsung-backpack-dlya-galaxy-s7-edge-chernyi'
+'step 2: Add visual checkpoint at Page_product_chekhol-santa-matreshka'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00011_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00009_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_product_samsung-clear-cover'
+'step 1: Navigate to Page_checkout_shipping-address'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/product/samsung-clear-cover')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/shipping-address')
 
-'step 2: Add visual checkpoint at Page_product_samsung-clear-cover'
+'step 2: Add visual checkpoint at Page_checkout_shipping-address'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00013_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00007_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
