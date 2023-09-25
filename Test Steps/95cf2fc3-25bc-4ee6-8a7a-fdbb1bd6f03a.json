@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink",
+        "step 3: At Page home click on hyperlink cart --> navigate to Page cart",
+        "step 4: At Page cart click on hyperlink --> navigate to Page home",
+        "step 5: At Page home click on hyperlink category chekhly na iphone --> navigate to Page category chekhly-na-iphone",
+        "step 6: At Page category chekhly-na-iphone click on button object",
+        "step 7: At Page category chekhly-na-iphone click on label object",
+        "step 8: At Page category chekhly-na-iphone click on button object",
+        "step 9: At Page category chekhly-na-iphone click on button object",
+        "step 10: At Page category chekhly-na-iphone click on button object",
+        "step 11: At Page category chekhly-na-iphone click on hyperlink product chekhol tetrad --> navigate to Page product chekhol-tetrad",
+        "step 12: At Page product chekhol-tetrad click on label object",
+        "step 13: At Page product chekhol-tetrad click on button object",
+        "step 14: At Page product chekhol-tetrad click on button object",
+        "step 15: Add visual checkpoint at Page product chekhol-tetrad"
+    ]
+}
